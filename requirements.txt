@@ -1,0 +1,6 @@
+fastapi
+datasets
+pillow
+torch
+transformers
+fastapi[standard]
